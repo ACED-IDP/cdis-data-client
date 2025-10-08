@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Archiving in favor of [calypr/data-client](https://github.com/calypr/data-client) ⚠️
+> Archiving in favor of [calypr/data-client](https://github.com/calypr/data-client)...
 
 # gen3-client
 [![Build Status](https://travis-ci.org/uc-cdis/cdis-data-client.svg?branch=master)](https://travis-ci.org/uc-cdis/cdis-data-client)
