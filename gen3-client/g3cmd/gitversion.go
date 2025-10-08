@@ -1,6 +1,6 @@
 package g3cmd
 
-var (
+const (
 	gitcommit  = "N/A"
-	gitversion = "2023.11"
+	gitversion = "N/A"
 )
